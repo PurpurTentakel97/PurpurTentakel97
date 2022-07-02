@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PurpurTentakel97
 - 👀 I’m interested in ... Coding, Musik, Mixing
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Python, C#, C++
 - 📫 How to reach me ... 	
 -       Twitch: https://www.twitch.tv/purpurtentakel97
 -       Discord: https://discord.gg/JG5fsFZqEE
