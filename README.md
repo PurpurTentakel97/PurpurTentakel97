@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Coding, Musik, Mixing
 - 🌱 I’m currently learning ... Python, C#, C++
 - 📫 How to reach me ... 	
--       Twitch: https://www.twitch.tv/purpurtentakel97
+-       Twitch: https://www.twitch.tv/codingpurpurtentakel
 -       Discord: https://discord.gg/JG5fsFZqEE
 
 <!---
