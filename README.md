@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PurpurTentakel97
+- 👋 Hi, I’m @codingPurpurTentakel
 - 👀 I’m interested in ... Coding, Musik, Mixing
 - 🌱 I’m currently learning ... Python, C#, C++
 - 📫 How to reach me ... 	
